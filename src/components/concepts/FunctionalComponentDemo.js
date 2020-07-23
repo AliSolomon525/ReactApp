@@ -101,7 +101,7 @@ const HelloWorldFatArrow = () => (
         <CardTitle>Fat Arrow</CardTitle>
         <CardSubtitle>A JS Library</CardSubtitle>
         <CardText>
-          <pre>const HelloWorld = function() =></pre>
+          <pre>const HelloWorld = function() *arrow function here*</pre>
         </CardText>
         <Button>Click</Button>
       </CardBody>
